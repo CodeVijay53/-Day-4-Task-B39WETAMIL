@@ -1,4 +1,4 @@
-//Print the Names, Region, Subregion and Populations of all countries
+//Print the Names, Region, Subregion and Populations of all countries in the web request.
 
 const request = new XMLHttpRequest();
 request.open("GET", "https://restcountries.com/v3.1/all");
